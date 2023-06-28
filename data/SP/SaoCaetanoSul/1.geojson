@@ -1,6 +1,11 @@
 { "type": "FeatureCollection",
 "features": [
   { "type": "Feature",
+
+  "properties": {
+    "letter": "mapa",
+    "color": "blue"
+  },
      "geometry": {
     "type": "Polygon",
     "coordinates": [
